@@ -1,1 +1,2 @@
-11
+config:
+    info:master brach,springcloud-config/config-dev.yaml version = 1
